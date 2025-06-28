@@ -1,11 +1,11 @@
 # TriviaQuest: An iOS Trivia App
 
 <div>
-    <a href="https://www.loom.com/share/a443a651c39e4e7c8e05e314590543e0">
+    <a href="https://www.loom.com/share/937a5064aac34c76921e4bcbeb12816d">
       <p>iOS Trivia App - Watch Video</p>
     </a>
-    <a href="https://www.loom.com/share/a443a651c39e4e7c8e05e314590543e0">
-      <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/a443a651c39e4e7c8e05e314590543e0-06c91ead988d1b75-full-play.gif">
+    <a href="https://www.loom.com/share/937a5064aac34c76921e4bcbeb12816d">
+      <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/937a5064aac34c76921e4bcbeb12816d-090c57190f4db193-full-play.gif">
     </a>
   </div>
 
