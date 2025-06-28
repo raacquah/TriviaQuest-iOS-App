@@ -28,7 +28,7 @@ A fun and engaging trivia quiz application for iOS built with Swift. Test your g
 This project is built using modern Apple technologies:
 
 * **Language:** [**Swift**](https://developer.apple.com/swift/)
-* **UI Framework:** [**SwiftUI**](https://developer.apple.com/xcode/swiftui/) (or **UIKit** if you used that)
+* **UI Framework:** [**SwiftUI**](https://developer.apple.com/xcode/swiftui/)
 * **IDE:** [**Xcode**](https://developer.apple.com/xcode/)
 
 The trivia questions are currently hardcoded in a `TriviaQuestion` model array, making it easy to add or modify content directly in the source code.
